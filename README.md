@@ -116,7 +116,7 @@ LIMIT 5;
 Here are the results for Data Analyst about the most in-demand skills.
 We can clearly see that SQL is the most in-demand skill followed by excel and python.
 
-![Top demanded skills](assets\Top_demanded_skills.png) 
+![Top demanded skills](https://github.com/ValeNovak/SQL_PROJECT_DATA_JOB_ANALYSIS/blob/master/assets/Top_demanded_skills.png) 
 
 *Results of SQL query above*
 

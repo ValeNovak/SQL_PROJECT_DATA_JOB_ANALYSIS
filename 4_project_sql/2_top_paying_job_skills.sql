@@ -34,7 +34,7 @@ FROM top_paying_jobs
 INNER JOIN skills_job_dim sjd on top_paying_jobs.job_id =sjd.job_id
 INNER JOIN skills_dim sd on sjd.skill_id = sd.skill_id
 ORDER BY
-    salary_year_avg DESC
+    salary_year_avg DESC;
 
 /*
 SQL (8 mentions) and Python (7 mentions) are the most sought-after skills, reinforcing their importance for data analysts.
